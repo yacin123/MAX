@@ -7,4 +7,4 @@ client.on('ready', () => { //playing
 });
 
 
-client.login("NDgzNjg2MTcyMjIxMjQzNDAy.DqUUwg.x5oWC4P-4UMdnr4XSrz2C90HJMY");
+client.login("NTAwMDExNTQyNjc1MzI0OTM5.DrkRRA.Z0t2WlUO2VbVdKGehlCoXAuLeAI");
