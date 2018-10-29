@@ -8,7 +8,7 @@ client.on('ready', () => {
 
 
 const adminprefix = "-";
-const devs = ['ID حقتك'];
+const devs = ['483686172221243402'];
 client.on('message', message => {
   var argresult = message.content.split(` `).slice(1).join(' ');
     if (!devs.includes(message.author.id)) return;
