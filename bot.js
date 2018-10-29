@@ -2,7 +2,7 @@
 const client = new Discord.Client();
 
 client.on('ready', () => { //playing
-    client.user.setGame(`♯ ~ Étoiles . Shop .`,'https://www.twitch.tv/faresgameryt');
+    client.user.setGame(`قريبا احلى سيرفر قادم`,'https://www.twitch.tv/faresgameryt');
     client.user.setStatus('Online')
 });
 
