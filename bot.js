@@ -32,4 +32,4 @@ if (message.content.startsWith(adminprefix + 'setT')) {
 }
 });
 
-client.login("YOUR TOKEN HERE");
+client.login("NDgzNjg2MTcyMjIxMjQzNDAy.DqUUwg.x5oWC4P-4UMdnr4XSrz2C90HJMY");
